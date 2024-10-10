@@ -1,0 +1,25 @@
+.ban1{
+    background-color: rgba(177, 13, 13, 0.893);
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+.ban2{
+    background-color: white;
+    color: rgb(135, 187, 235); 
+    padding: 10px;
+    border-radius: 2px;
+    border-color:rgb(135, 187, 235) ;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.ban3{
+    background-color:skyblue;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 18px;
+}
